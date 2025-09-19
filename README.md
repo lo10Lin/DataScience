@@ -9,8 +9,8 @@ Est-ce que l’effectif de police par commune est en adéquation avec le nombre 
 Objectif : identifier les zones potentiellement sous-dotées en effectifs.  
 
 ## Données
-- Effectifs de police par commune  – [data.gouv.fr](https://www.data.gouv.fr/)  
-- Crimes et délits enregistrés par commune  – [data.gouv.fr](https://www.data.gouv.fr/)  
+- Effectifs de police par commune  – [data.gouv.fr]([https://www.data.gouv.fr/](https://www.data.gouv.fr/datasets/police-municipale-effectifs-par-commune/))  
+- Crimes et délits enregistrés par commune  – [data.gouv.fr]((https://www.data.gouv.fr/datasets/archive-crimes-et-delits-enregistres-par-les-services-de-gendarmerie-et-de-police-depuis-2012/))  
 
 ## Outils
 - Python (pandas, numpy)  
