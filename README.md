@@ -2,7 +2,7 @@
 
 ## Contexte
 Projet de data science réalisé dans le cadre d’un cours.  
-Entreprise fictive : ** Fictive Insights** (cabinet d’études pour l’industrie du jeu vidéo).
+Entreprise fictive : **Fictive Insights** (cabinet d’études pour l’industrie du jeu vidéo).
 
 Une entreprise cherche à faire une mascotte type animal pour son produit (jeux vidéo, dessin animé, même céréal)...
 Nous avonc donc comme tâche de trouver quelles sont les charactéristiques les plus populaire chez une mascotte, et pour ce, nous avons choisis la license "Animal Crossing".
